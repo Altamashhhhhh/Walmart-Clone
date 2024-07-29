@@ -1,5 +1,8 @@
 # Walmart Clone
 
+**Walmart** is a global retail giant known for its extensive range of products, from groceries to electronics, available both in physical stores and online.
+
+
 The **Walmart Clone** project is a front-end replication of the Walmart e-commerce website. This project demonstrates advanced front-end development skills by replicating the site's user interface and functionality. It features essential e-commerce functionalities such as product search, category navigation, and user accounts, all built using **HTML**, **CSS**, **JavaScript**, and **React** with **Chakra UI** for a modern and responsive design.
 
 ## 🚀 Live Demo
